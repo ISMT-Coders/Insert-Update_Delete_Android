@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+    <EditText
+        android:id="@+id/rollNum"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter Roll No."
+        android:layout_marginTop="10dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp">
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter Name"
+        android:layout_marginTop="10dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+    <EditText
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter Address"
+        android:layout_marginTop="10dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_insert"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Insert"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:layout_marginTop="10sp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_ViewData"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="View Data"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:layout_marginTop="10sp"/>
+
+
+
+  </LinearLayout>
