@@ -100,6 +100,14 @@ public class Db_Helper extends SQLiteOpenHelper {
         }else{
             Toast.makeText(context, "Updated Successfully", Toast.LENGTH_SHORT).show();
         }
-
+    }
+    void deleteOneRow(String rollNum){
+        SQLiteDatabase db = this.getWritableDatabase();
+        long result = db.delete("table_Name",COL1+"=?", new String[]{rollNum} );
+        if (result == -1){
+            Toast.makeText(context, "Failed To delete", Toast.LENGTH_SHORT).show();
+        }else {
+            Toast.makeText(context, "Successfully Deleted", Toast.LENGTH_SHORT).show();
+        }
     }
 }
