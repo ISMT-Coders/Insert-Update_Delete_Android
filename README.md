@@ -35,33 +35,41 @@ Harness the power of this app with these simple steps:
 6. To remove a student record from the database, simply click the "Delete" button on the student details screen.
 
 ## Screenshots
-<div style="display: flex; justify-content: center;">
-  <div style="padding: 10px;">
-    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/view.jpg" width="300">
-    <p style="text-align: center;">View Student Details Screen</p>
-  </div>
-  <div style="padding: 10px;">
-    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/delete.jpg" width="300">
-    <p style="text-align: center;">Main Screen</p>
-  </div>
-</div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="padding: 10px;">
-    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/insert.jpg" width="300">
-    <p style="text-align: center;">Add Student Screen</p>
-  </div>
-  <div style="padding: 10px;">
-    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/update.jpg" width="300">
-    <p style="text-align: center;">Edit Student Screen</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <b>View Student Details Screen</b>
+      <br>
+      <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/view.jpg" width="200">
+    </td>
+    <td align="center">
+      <b>Main Screen</b>
+      <br>
+      <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/delete.jpg" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Add Student Screen</b>
+      <br>
+      <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/insert.jpg" width="200">
+    </td>
+    <td align="center">
+      <b>Edit Student Screen</b>
+      <br>
+      <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/update.jpg" width="200">
+    </td>
+  </tr>
+</table>
+
+
 
 ## Contributions
-As a community-driven project, contributions are warmly welcomed. If you encounter any issues or wish to enhance the app's features, we encourage you to submit a pull request, fostering continuous improvement.
+As a community-driven project, contributions are warmly welcomed. If you encounter any issues or wish to enhance the app's features, I encourage you to submit a pull request, fostering continuous improvement.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License (Just kidding).
 
 ## Contact
-For any inquiries, questions, or suggestions, feel free to reach out to the development team at hi@sumanmukhiya.com.np. We value your feedback and look forward to hearing from you.
+For any inquiries, questions, or suggestions, feel free to reach out to me at hi@sumanmukhiya.com.np. 
