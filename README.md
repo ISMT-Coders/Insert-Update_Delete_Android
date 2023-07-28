@@ -35,17 +35,27 @@ Harness the power of this app with these simple steps:
 6. To remove a student record from the database, simply click the "Delete" button on the student details screen.
 
 ## Screenshots
-### View Student Details Screen
-![View Student Details](https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/view.jpg)
+<div style="display: flex; justify-content: center;">
+  <div style="padding: 10px;">
+    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/view.jpg" width="300">
+    <p style="text-align: center;">View Student Details Screen</p>
+  </div>
+  <div style="padding: 10px;">
+    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/delete.jpg" width="300">
+    <p style="text-align: center;">Main Screen</p>
+  </div>
+</div>
 
-### Main Screen
-![Delete Student](https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/delete.jpg)
-
-### Add Student Screen
-![Add Student](https://example.com/images/add_student.png)
-
-### Edit Student Screen
-![Update Student](https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/update.jpg)
+<div style="display: flex; justify-content: center;">
+  <div style="padding: 10px;">
+    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/insert.jpg" width="300">
+    <p style="text-align: center;">Add Student Screen</p>
+  </div>
+  <div style="padding: 10px;">
+    <img src="https://github.com/ISMT-Coders/Insert-Update_Delete_Android/blob/main/update.jpg" width="300">
+    <p style="text-align: center;">Edit Student Screen</p>
+  </div>
+</div>
 
 ## Contributions
 As a community-driven project, contributions are warmly welcomed. If you encounter any issues or wish to enhance the app's features, we encourage you to submit a pull request, fostering continuous improvement.
